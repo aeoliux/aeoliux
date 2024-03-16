@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there, I'm aeoliux :wave:
 
-<!--
-**aeoliux/aeoliux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About myself
+I am a polish 16yo random, who is interested in mobile development (mainly backend of it).
 
-Here are some ideas to get you started:
+#### My experience
+- Basics of SwiftUI (I'm writing a fullstack LibrePass app for iOS).
+- Golang
+- TypeScript and basics of React Native
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### My hardware
+- laptop: MBA 15" M2 16GB/256GB (my main machine for dev)
+- phone: Google Pixel 7 Pro 12GB/128GB
+- pc: i5-10400F RX580 16GB/512GB
