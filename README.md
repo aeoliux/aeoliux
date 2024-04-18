@@ -10,5 +10,6 @@ I am a polish 16yo random, who is interested in mobile development (mainly backe
 
 #### My hardware
 - laptop: MBA 15" M2 16GB/256GB (my main machine for dev)
-- phone: Google Pixel 7 Pro 12GB/128GB
+- main phone: Google Pixel 7 Pro 12GB/128GB
+- second phone: iPhone 11 Pro 64GB
 - pc: i5-10400F RX580 16GB/512GB
