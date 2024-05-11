@@ -4,7 +4,7 @@
 I am a polish 16yo random, who is interested in mobile development (mainly backend of it).
 
 #### My experience
-- Basics of SwiftUI (I'm writing a fullstack LibrePass app for iOS).
+- Basics of SwiftUI (I wrote LibrePass app for iOS).
 - Golang
 - TypeScript and basics of React Native
 
