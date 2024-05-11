@@ -1,7 +1,7 @@
 ### Hi there, I'm aeoliux :wave:
 
 #### About myself
-I am a polish 16yo random, who is interested in mobile development (mainly backend of it).
+I am a polish 16yo random, who is interested in web services and mobile development (mainly backend of it).
 
 #### My experience
 - Basics of SwiftUI (I wrote LibrePass app for iOS).
